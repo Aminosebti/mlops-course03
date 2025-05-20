@@ -1,4 +1,5 @@
 [core]
     remote = storage
+    autostage = true
 ['remote "storage"']
-    url = s3://mlops-course-ehb-data-dev/data
+    url = s3://mlops-course-ehb-data-aminosebti-dev/data
