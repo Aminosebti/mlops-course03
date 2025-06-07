@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aminesebti/development/ehb/mlops-course03/mlops-course-04/src/mlruns/281854241144043113/0971d20b48e14dc8b3b82ca32348d400/artifacts
+end_time: 1749325184984
+entry_point_name: ''
+experiment_id: '281854241144043113'
+lifecycle_stage: active
+run_id: 0971d20b48e14dc8b3b82ca32348d400
+run_name: secretive-quail-363
+run_uuid: 0971d20b48e14dc8b3b82ca32348d400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749325178597
+status: 3
+tags: []
+user_id: aminesebti

@@ -253,9 +253,9 @@ async def predict(input_data: InputData):
 
 ```bash
 # Build Docker image
-docker build -t mlops-course-03-image .
+docker -H unix:///run/docker.sock build -t mlops-course-03-image .
 # Run container
-docker run -d --name mlops-course-03-container -p 80:80 mlops-course-03-image
+docker -H unix:///run/docker.sock run -d --name mlops-course-03-container -p 80:80 mlops-course-03-image
 ```
 You can access the API docs locally at `http://127.0.0.1/docs` and make predictionsat `http://127.0.0.1/predict`:
 ```bash

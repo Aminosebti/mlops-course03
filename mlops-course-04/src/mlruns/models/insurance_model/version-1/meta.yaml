@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749325184982
+current_stage: None
+description: null
+last_updated_timestamp: 1749325184982
+name: insurance_model
+run_id: 0971d20b48e14dc8b3b82ca32348d400
+run_link: null
+source: file:///home/aminesebti/development/ehb/mlops-course03/mlops-course-04/src/mlruns/281854241144043113/0971d20b48e14dc8b3b82ca32348d400/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/aminesebti/development/ehb/mlops-course03/mlops-course-04/src/mlruns/281854241144043113/0971d20b48e14dc8b3b82ca32348d400/artifacts/model
+user_id: null
+version: 1
